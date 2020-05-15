@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hybridnativecloud-project-api-pipeline-stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hybridnativecloud-project-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hybridnativecloud-project-slack-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hybridnativecloud-project-terraform-stack" vcs="Git" />
+  </component>
+</project>
